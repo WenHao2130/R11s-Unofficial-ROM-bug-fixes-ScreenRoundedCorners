@@ -1,9 +1,4 @@
-# R11s-Unofficial-ROM-bug-fixes
-# OPPO R11s 非官方ROM/GSI bug修复
-# 包含
-# -最高亮度修复
-# -自动亮度修复
-# -屏幕圆角
-# -VoLTE
-# 使用方法
-# 将文件下载并分别放入/system相应的文件夹内(或者使用Magisk模块修改)
+# R11s非官方ROM bug修复
+##### -这是一个Magisk模块，你需要使用Magisk20.3+进行刷入
+##### -本模块共可修复4个非官方ROM的问题:最高亮度，自动亮度，屏幕圆角，VoLTE修复
+##### -请在输入模块重启您的手机后进入系统设置打开Phh Treble Settings ==> IMS features ==> Request IMS network的开关

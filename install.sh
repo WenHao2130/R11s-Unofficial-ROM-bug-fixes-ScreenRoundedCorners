@@ -26,15 +26,15 @@ SKIPMOUNT=false
 #是否安装模块后自动关闭，改为true，安装后不会自动勾选启用
 
 # Set to true if you need to load system.prop
-PROPFILE=false
+PROPFILE=true
 #是否使用common/system.prop文件
 
 # Set to true if you need post-fs-data script
-POSTFSDATA=false
+POSTFSDATA=true
 #是否使用post-fs-data脚本执行文件
 
 # Set to true if you need late_start service script
-LATESTARTSERVICE=false
+LATESTARTSERVICE=true
 #是否在开机时候允许允许common/service.sh中脚本
 
 ##########################################################################################

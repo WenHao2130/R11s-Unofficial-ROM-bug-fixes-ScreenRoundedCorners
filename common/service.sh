@@ -11,4 +11,4 @@ setprop persist.sys.overlay.devinputjack true
 setprop persist.dbg.ims_volte_enable 1
 setprop persist.dbg.volte_avail_ovr 1
 setprop persist.dbg.vt_avail_ovr 1
-setprop persist.dbg.wfc_avail_ovr 1
+setprop persist.dbg.wfc_avail_ovr

@@ -1,6 +1,6 @@
 # R11s非官方ROM bug修复
 #### -这是一个Magisk模块，你需要使用Magisk20.3+进行刷入
-#### -本模块可以修复:最高亮度、自动亮度、VoLTE 以及添加屏幕圆角
+#### -本模块可以修复:最高亮度、自动亮度、VoLTE、OTG 以及添加屏幕圆角
 #### -请在刷入模块后重启您的手机并进入系统设置打开Phh Treble Settings ==> IMS features ==> Request IMS network的开关
 
 

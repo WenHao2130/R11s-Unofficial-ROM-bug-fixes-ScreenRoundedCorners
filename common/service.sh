@@ -12,3 +12,4 @@ setprop persist.dbg.ims_volte_enable 1
 setprop persist.dbg.volte_avail_ovr 1
 setprop persist.dbg.vt_avail_ovr 1
 setprop persist.dbg.wfc_avail_ovr
+echo '1' > /sys/class/power_supply/usb/otg_switch

@@ -1,6 +1,6 @@
 id=r11s-bug-fix
 name=R11s第三方ROM bug修复
-version=1.1
+version=1.2
 versionCode=1
 author=WenHao xxtvrxx
-description=最高亮度，自动亮度，屏幕圆角，VoLTE修复              PS:请在重启后打开系统设置中Phh Treble Settings中IMS features中Request IMS network的开关
+description=最高亮度,自动亮度,屏幕圆角,VoLTE修复,OTG修复          PS:请在重启后打开系统设置中Phh Treble Settings中IMS features中Request IMS network的开关

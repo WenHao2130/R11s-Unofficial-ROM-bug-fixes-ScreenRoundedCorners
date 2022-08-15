@@ -12,7 +12,7 @@
 
 ## 那么,哪里才能买得到呢?
 
--1.Download To Zip
+-1.Download Zip
 
 -2.前往Releases进行下载
 
